@@ -9,11 +9,9 @@
     "color",
     "colorpicker"
   ],
+  "author": "Flaute",
   "homepage": "http://bootstrap-colorselector.flaute.com/",
   "license": "MIT",
-  "author": {
-    "Flaute"
-  },
   "files": [
     "lib",
     "css",
