@@ -9,6 +9,7 @@
     "color",
     "colorpicker"
   ],
+  "main": "lib/js/bootstrap-colorselector.js",
   "author": "Flaute",
   "homepage": "http://bootstrap-colorselector.flaute.com/",
   "license": "MIT",
@@ -21,7 +22,7 @@
     "url": "https://github.com/Balinea/bootstrap-colorselector.git"
   },
   "scripts": {
-    
+
   },
   "dependencies": {
     "jquery": ">=1.7",
